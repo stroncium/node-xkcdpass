@@ -1,0 +1,26 @@
+{
+  "name": "xkcdpass",
+  "version": "0.1.0",
+  "description": "XKCD-style password generation for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xkcd",
+    "password",
+    "generation"
+  ],
+  "author": "Yanis Benson",
+  "license": "Unlicense",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stroncium/node-xkcdpass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stroncium/node-xkcdpass/issues"
+  },
+  "homepage": "https://github.com/stroncium/node-xkcdpass#readme"
+}
