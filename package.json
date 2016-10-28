@@ -11,6 +11,9 @@
     "password",
     "generation"
   ],
+  "bin": {
+    "xkcdpass": "./bin/xkcdpass"
+  },
   "author": "Yanis Benson",
   "license": "Unlicense",
   "dependencies": {},
